@@ -1,0 +1,5 @@
+apple	4	1.00
+chicken	1	3.25
+cookie	38	0.25
+milk	9	4.50
+tomato	27	0.50
